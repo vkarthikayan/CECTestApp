@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CECTestApp</string>
+    <string name="welcome_msg">We will help you set up your CEC test device and run the test.\n\nTo start, connect this phone to WiFi</string>
+    <string name="enter_name_msg">Enter your name below</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="welcome_next_btn">Next</string>
+</resources>
